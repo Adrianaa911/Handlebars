@@ -24,6 +24,7 @@
     </h1>
     <div id="goals">
     </div>
+
   	<script src="public/main.js" type="text/javascript"></script>  
   </body>
 </html>
