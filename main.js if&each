@@ -23,6 +23,7 @@ const context = {
   ]
 };
 
+
 const compiledHtml = template(context);
 
 const displayGoals = document.getElementById('goals');
